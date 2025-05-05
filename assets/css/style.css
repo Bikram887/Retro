@@ -750,13 +750,17 @@ footer .copyright ul {
         display: block;
         color: #000;
         background-color: #faff08;
+        padding: 5px;
+        border-radius: 10px;
     }
 
     header .nav_bar .get_a_demo,
     header .nav_bar .nav_menu {
         display: none;
     }
-
+    .hero_section .hero_content h1 {
+        font-size: 58px;
+    }
 
     .check_out .col-lg-3 {
         margin-bottom: 20px;
